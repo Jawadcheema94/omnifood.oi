@@ -1,0 +1,253 @@
+/* /************ */
+/* RESPONDING TO SMALL LAPTOPS */
+/* /*************** */
+
+@media (max-width: 1200px) {
+  h1 {
+    width: 42rem;
+  }
+
+  .logos {
+    width: 75rem;
+  }
+
+  .sq-1 {
+    margin-left: -10rem;
+  }
+
+  .square {
+    margin-left: 0.2rem;
+  }
+
+  .pr-1 {
+    margin-left: 10.2rem;
+  }
+
+  .bxx-3,
+  .qq-3 {
+    margin-left: -9.7rem;
+  }
+
+  .i-3 {
+    margin-bottom: -2.3rem;
+  }
+
+  .card-1 {
+    margin-left: 3rem;
+  }
+
+  .diet {
+    margin-left: 5rem;
+    width: 16rem;
+  }
+
+  .gellery {
+    margin-left: -2.7rem;
+  }
+
+  .quote {
+    width: 18rem;
+  }
+
+  .p-p1 {
+    width: 26rem;
+  }
+
+  .p-p2 {
+    width: 26rem;
+    margin-left: 10rem;
+  }
+
+  .small-ban {
+    margin-bottom: 2rem;
+    padding-left: 1rem;
+  }
+
+  .fig-1 {
+    margin-left: 2rem;
+    width: 15rem;
+  }
+
+  .cta {
+    width: 80rem;
+  }
+
+  .footer-div {
+    width: 83rem;
+  }
+}
+
+/* /************ */
+/* RESPONDING TO LANDSCAPE TABLETS */
+/* /*************** */
+
+@media (max-width: 1024px) {
+  html {
+    font-size: 0.7rem;
+  }
+
+  .navigation {
+    margin-left: -0.8rem;
+  }
+
+  .hero-text {
+    margin-left: -2.3rem;
+  }
+
+  .hero-img {
+    margin-left: 8rem;
+    height: 42rem;
+  }
+
+  .f-head {
+    margin-top: -12rem;
+    margin-left: -13rem;
+  }
+
+  .step-1,
+  .step-2 {
+    width: 40rem;
+  }
+
+  .sq-1 {
+    margin-left: 1.4rem;
+    margin-top: 11rem;
+  }
+
+  .square {
+    margin-top: 11.6rem;
+  }
+
+  .box-2 {
+    margin-left: 3rem;
+    margin-top: 11rem;
+  }
+
+  .sq-2 {
+    margin-left: 2.5rem;
+    margin-top: 11.6rem;
+  }
+
+  .qq-3 {
+    margin-left: 2rem;
+    margin-top: 11rem;
+  }
+
+  .bxx-3 {
+    margin-left: 1.6rem;
+    margin-top: 11.6rem;
+  }
+
+  .container {
+    margin-left: 3rem;
+  }
+
+  .gellery {
+    margin-left: 2rem;
+    margin-top: 6rem;
+  }
+
+  .btn-meal {
+    margin-left: -3rem;
+  }
+
+  .p-name {
+    margin-top: 2.5rem;
+    font-size: 1.9rem;
+  }
+
+  .small-ban {
+    margin-top: 10rem;
+    margin-left: 3rem;
+  }
+
+  .ff-summary {
+    width: 18rem;
+  }
+
+  .form-cta-1 {
+    width: 43rem;
+  }
+}
+
+/* /************ */
+/* RESPONDING TO MOBILE PHONES*/
+/* /*************** */
+
+@media (max-width: 500px) {
+  html {
+    font-size: 0.7rem;
+  }
+
+  .navigation {
+    margin-left: -5rem;
+  }
+
+  .comp-logo {
+    height: 3rem;
+    margin-top: 2.5rem;
+  }
+
+  .button-87 {
+    font-size: 0.9rem;
+    margin-top: 1.3rem;
+  }
+
+  .f-head {
+    top: 80rem;
+    font-size: 0.9rem;
+  }
+
+  .s-headings {
+    width: 35rem;
+  }
+
+  .btn-meal {
+    font-size: 1.5rem;
+  }
+
+  .gellery {
+    margin-top: 19rem;
+  }
+
+  .p-name {
+    top: 317rem;
+    margin-left: -1rem;
+  }
+
+  .pp-btn {
+    font-size: 1.3rem;
+  }
+
+  .pp-li {
+    width: 17rem;
+  }
+
+  .p-sent {
+    width: 17rem;
+  }
+
+  .pricing-plan {
+    margin-left: 9rem;
+  }
+
+  .pp-btn {
+    width: 15rem;
+    margin-left: -3rem;
+  }
+
+  .small-ban {
+    top: 307.5rem;
+    padding: 0.7rem;
+    width: 7.6rem;
+    font-size: 0.9rem;
+    left: 71rem;
+    border-top-right-radius: 70%;
+    border-top-left-radius: 0.7rem;
+  }
+
+  .pricing-sen {
+    margin-left: 28rem;
+    width: 100%;
+  }
+}
